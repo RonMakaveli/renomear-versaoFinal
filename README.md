@@ -22,7 +22,8 @@ Adiciona a extensão ".mp3" caso não exista.<br>
 Após a conclusão do processo de renomeação, o sistema exibe uma mensagem de conclusão.<br>
 
 ## Pré-requisitos
-Para usar este sistema, você precisará ter o Python instalado em sua máquina. O sistema foi testado com sucesso nas seguintes versões do Python:
+Para usar este sistema, você precisará ter o Python instalado em sua máquina.<br> 
+O sistema foi testado com sucesso nas seguintes versões do Python:
 
 <ul>
   <li>Python 3.6</li>
@@ -37,4 +38,5 @@ Ele não inclui recursos avançados de tratamento de erros, como verificações 
 Portanto, use-o com cuidado e certifique-se de fazer backup de seus arquivos antes de executar o sistema.
 
 ## Contribuindo
-Se você deseja contribuir para o projeto, sinta-se à vontade para enviar um pull request com suas melhorias ou correções. Faremos o possível para analisá-lo e integrá-lo ao projeto o mais rápido possível.
+Se você deseja contribuir para o projeto, sinta-se à vontade para enviar um pull request com suas melhorias ou correções.<br>
+Faremos o possível para analisá-lo e integrá-lo ao projeto o mais rápido possível.
