@@ -20,10 +20,12 @@ Após a conclusão do processo de renomeação, o sistema exibe uma mensagem de 
 ## Pré-requisitos
 Para usar este sistema, você precisará ter o Python instalado em sua máquina. O sistema foi testado com sucesso nas seguintes versões do Python:
 
-Python 3.6
-Python 3.7
-Python 3.8
-Python 3.9
+<ul>
+  <li>Python 3.6</li>
+  <li>Python 3.7</li>
+  <li>Python 3.8</li>
+  <li>Python 3.9</li>
+</ul>
 
 ## Limitações
 Este sistema foi desenvolvido para fins educacionais e não deve ser usado em ambientes de produção. Ele não inclui recursos avançados de tratamento de erros, como verificações de integridade de arquivos e pastas. Portanto, use-o com cuidado e certifique-se de fazer backup de seus arquivos antes de executar o sistema.
