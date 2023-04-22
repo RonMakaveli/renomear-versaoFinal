@@ -38,5 +38,5 @@ Ele não inclui recursos avançados de tratamento de erros, como verificações 
 Portanto, use-o com cuidado e certifique-se de fazer backup de seus arquivos antes de executar o sistema.
 
 ## Contribuindo
-Se você deseja contribuir para o projeto, sinta-se à vontade para enviar um pull request com suas melhorias ou correções.<br>
+Para contribuir para o projeto, sinta-se à vontade para enviar um pull request com suas melhorias ou correções.<br>
 Faremos o possível para analisá-lo e integrá-lo ao projeto o mais rápido possível.
